@@ -1,5 +1,5 @@
 function mostrarNombres() {
-    let integrantes = ["Jhoan Estiven", "Marlon Torres", "Miguel Suarez", "Juan Jose"];
+    let integrantes = ["Jhoan Estiven", "Marlon Torres", "Miguel Suarez", "Juan Jose", "cristian arenas"];
     for (let i = 0; i < integrantes.length; i++) {
         alert(`En nuestros equipo de trabajo estan:` + integrantes[i]);
     }
