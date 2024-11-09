@@ -1,3 +1,10 @@
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: red;
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -32,4 +39,3 @@
     100% {
         transform: translateY(0);
     }
-}
